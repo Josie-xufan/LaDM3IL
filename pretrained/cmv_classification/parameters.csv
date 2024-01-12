@@ -1,0 +1,2 @@
+lr_b,lr_c,max_auc_auc,max_auc_acc,max_auc_f1,min_loss_auc,min_loss_acc,min_loss_f1,bert_model,finetune,prob,seq_len,batch_size,updprot_threshold,prot_start,proto_ema,seed
+0.0001,0.001,0.8543956043956045,0.8235294117647058,0.8131868131868132,0.815018315018315,0.75,0.7419642857142857,/aaa/louisyuzhao/project1/SC-AIR-BERT-Multi/checkpoint/pretrain_models/ab_3mer_len79.ep28,1,0.0,30,128,0.8,15,0.8104110009077465,27
