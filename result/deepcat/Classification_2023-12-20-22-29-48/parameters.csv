@@ -1,0 +1,2 @@
+lr_b,lr_c,max_auc_auc,max_auc_acc,max_auc_f1,bert_model,finetune,prob,seq_len,batch_size
+0.0001,0.001,0.8998237467206331,0.8330151438713074,0.8067373141497534,/home/fanxu/LADMIL_Github/pretrained/ab_3mer_len79.ep28,1,0.0,55,16
