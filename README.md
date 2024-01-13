@@ -49,7 +49,7 @@ git clone https://github.com/TencentAILabHealthcare/LaDM3IL.git
 cd ./LaDM3IL
 conda create -n ladmil python=3.9
 conda activate ladmil
-pip install numpy==1.26.0 pandas==2.1.2 transformers==4.28.1 scikit-learn==1.0.2 scipy==1.11.3 nni==1.9 matplotlib tensorboard
+pip install numpy==1.26.0 pandas==2.1.2 transformers==4.28.1 scikit-learn==1.0.2 scipy==1.11.3 nni==1.9 matplotlib tensorboard chardet
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 conda install pyg -c pyg
 conda install cuda -c nvidia
